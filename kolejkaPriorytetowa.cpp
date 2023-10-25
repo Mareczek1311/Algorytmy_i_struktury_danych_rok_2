@@ -22,6 +22,7 @@ KolejkaPrio* inicjalizacja(){
     KolejkaPrio* nowaKolejka = new KolejkaPrio;
     nowaKolejka->start = NULL;
     nowaKolejka->koniec = NULL;
+    nowaKolejka->maxWartosc = -1;
     return nowaKolejka;
 }
 
