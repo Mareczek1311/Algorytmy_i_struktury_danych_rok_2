@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IV__Dynamicznie_II",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IV__Dynamicznie_II::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IV__Dynamicznie_II-Debug-8ef5933d3dada887e8dc.json",
+					"name" : "IV__Dynamicznie_II",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/IV*_Dynamicznie_II/Bankomat_dynamiczny/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/IV*_Dynamicznie_II/Bankomat_dynamiczny"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sortowanie_przez_scalanie",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sortowanie_przez_scalanie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sortowanie_przez_scalanie-Debug-458eaabb338e1dbd8d29.json",
+					"name" : "sortowanie_przez_scalanie",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/ASD/II_Rekurencja_dziel_i_zwyciezaj/sortowanie_przez_scalanie/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/ASD/II_Rekurencja_dziel_i_zwyciezaj/sortowanie_przez_scalanie"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

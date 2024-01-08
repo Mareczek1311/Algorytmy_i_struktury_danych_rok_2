@@ -1,0 +1,11 @@
+2
+krystyna 0 0 1 2 4 
+Jasio 1 -1 0 0 
+Beata 2 1 1 6 7 
+Darek 4 1 0 8 9 
+Slawek 3 -1 0 2 
+Marek 6 2 0 
+Mateusz 7 2 0 
+Gosia 5 -1 1 4 
+Mariusz 8 2 0 
+Patrycja 9 2 1 

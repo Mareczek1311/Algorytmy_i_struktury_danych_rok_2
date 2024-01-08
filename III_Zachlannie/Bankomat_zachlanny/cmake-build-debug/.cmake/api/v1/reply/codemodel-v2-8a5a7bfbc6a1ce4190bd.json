@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bankomat_zachlanny",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bankomat_zachlanny::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bankomat_zachlanny-Debug-7c39f9138973a3cb0f03.json",
+					"name" : "Bankomat_zachlanny",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/ASD/III_Zachlannie/Bankomat_zachlanny/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/ASD/III_Zachlannie/Bankomat_zachlanny"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

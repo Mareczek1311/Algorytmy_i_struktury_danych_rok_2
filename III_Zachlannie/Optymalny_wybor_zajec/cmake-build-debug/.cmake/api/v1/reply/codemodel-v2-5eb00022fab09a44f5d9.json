@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Optymalny_wybor_zajec",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Optymalny_wybor_zajec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Optymalny_wybor_zajec-Debug-c200722d141d1894f326.json",
+					"name" : "Optymalny_wybor_zajec",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/ASD/III_Zachlannie/Optymalny_wybor_zajec/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/ASD/III_Zachlannie/Optymalny_wybor_zajec"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Szeregowanie_czynnosci",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Szeregowanie_czynnosci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Szeregowanie_czynnosci-Debug-5b4a074dad37a50b0866.json",
+					"name" : "Szeregowanie_czynnosci",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/ASD/V_Dynamicznie_czy_zachlannie/Szeregowanie_czynnosci/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/ASD/V_Dynamicznie_czy_zachlannie/Szeregowanie_czynnosci"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

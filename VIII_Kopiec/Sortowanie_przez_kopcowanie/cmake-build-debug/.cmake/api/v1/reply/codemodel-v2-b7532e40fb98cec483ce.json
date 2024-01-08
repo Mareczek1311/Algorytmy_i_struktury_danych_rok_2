@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sortowanie_przez_kopcowanie",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sortowanie_przez_kopcowanie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sortowanie_przez_kopcowanie-Debug-18fa7bd69247a09e655d.json",
+					"name" : "Sortowanie_przez_kopcowanie",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII_Kopiec/Sortowanie_przez_kopcowanie/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII_Kopiec/Sortowanie_przez_kopcowanie"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

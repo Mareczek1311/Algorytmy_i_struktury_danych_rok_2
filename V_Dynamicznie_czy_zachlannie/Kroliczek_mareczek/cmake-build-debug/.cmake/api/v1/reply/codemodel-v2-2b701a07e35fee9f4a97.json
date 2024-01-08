@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Kroliczek_mareczek",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Kroliczek_mareczek::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kroliczek_mareczek-Debug-0850d3bef45f293b4c09.json",
+					"name" : "Kroliczek_mareczek",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/ASD/V_Dynamicznie_czy_zachlannie/Kroliczek_mareczek/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/ASD/V_Dynamicznie_czy_zachlannie/Kroliczek_mareczek"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

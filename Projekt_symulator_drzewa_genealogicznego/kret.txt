@@ -1,0 +1,15 @@
+3
+Dionizy 0 0 0 2 4 6 
+Janina 1 -1 1 0 
+Slawomir 2 1 0 7 8 
+Ewa 4 1 1 9 10 
+Adam 6 1 0 
+Beata 3 -1 1 2 
+Marek 7 2 0 
+Mateusz 8 2 3 
+Grzegoz 5 -1 0 4 
+Rafal 9 2 0 12 13 
+Damian 10 2 0 
+Kasia 11 -1 1 9 
+Leon 12 3 0 
+Alicja 13 3 1 

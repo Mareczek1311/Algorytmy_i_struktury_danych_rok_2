@@ -1,0 +1,3 @@
+/Users/mareczek131/code/rok2/ASD/II_Rekurencja_dziel_i_zwyciezaj/sortowanie_przez_wstawianie_rekurencyjnie/cmake-build-debug/CMakeFiles/sortowanie_przez_wstawianie_rekurencyjnie.dir
+/Users/mareczek131/code/rok2/ASD/II_Rekurencja_dziel_i_zwyciezaj/sortowanie_przez_wstawianie_rekurencyjnie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mareczek131/code/rok2/ASD/II_Rekurencja_dziel_i_zwyciezaj/sortowanie_przez_wstawianie_rekurencyjnie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

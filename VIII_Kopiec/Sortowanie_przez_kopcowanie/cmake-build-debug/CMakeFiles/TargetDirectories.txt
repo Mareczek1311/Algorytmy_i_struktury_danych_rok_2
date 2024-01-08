@@ -1,0 +1,3 @@
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII_Kopiec/Sortowanie_przez_kopcowanie/cmake-build-debug/CMakeFiles/Sortowanie_przez_kopcowanie.dir
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII_Kopiec/Sortowanie_przez_kopcowanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII_Kopiec/Sortowanie_przez_kopcowanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

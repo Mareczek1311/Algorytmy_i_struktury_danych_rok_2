@@ -1,0 +1,3 @@
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII*_Kolejka_priorytetowa/Kolejka_priotytetowa_kopiec/cmake-build-debug/CMakeFiles/Kolejka_priotytetowa_kopiec.dir
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII*_Kolejka_priorytetowa/Kolejka_priotytetowa_kopiec/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII*_Kolejka_priorytetowa/Kolejka_priotytetowa_kopiec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
