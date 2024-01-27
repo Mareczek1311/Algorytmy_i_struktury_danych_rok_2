@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProstyGPS",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProstyGPS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProstyGPS-Debug-c6e34070f643133b4dde.json",
+					"name" : "ProstyGPS",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/X*_Dalsze_zastosowania_grafow/ProstyGPS/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/X*_Dalsze_zastosowania_grafow/ProstyGPS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

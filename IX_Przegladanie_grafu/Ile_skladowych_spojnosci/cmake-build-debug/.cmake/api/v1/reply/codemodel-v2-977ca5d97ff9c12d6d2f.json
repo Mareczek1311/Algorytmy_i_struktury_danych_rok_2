@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ile_skladowych_spojnosci",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ile_skladowych_spojnosci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ile_skladowych_spojnosci-Debug-a23f23727af93fcb9e83.json",
+					"name" : "Ile_skladowych_spojnosci",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/IX_Przegladanie_grafu/Ile_skladowych_spojnosci/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/IX_Przegladanie_grafu/Ile_skladowych_spojnosci"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

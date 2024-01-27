@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Kolejka_priorytetowa_drzewo_BST",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Kolejka_priorytetowa_drzewo_BST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kolejka_priorytetowa_drzewo_BST-Debug-b1eec51e8bccd65efa6e.json",
+					"name" : "Kolejka_priorytetowa_drzewo_BST",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII*_Kolejka_priorytetowa/Kolejka_priorytetowa_drzewo_BST/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/VIII*_Kolejka_priorytetowa/Kolejka_priorytetowa_drzewo_BST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

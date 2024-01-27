@@ -1,0 +1,3 @@
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/IX_Przegladanie_grafu/Sprawdzanie_spojnosci_grafu/cmake-build-debug/CMakeFiles/Sprawdzanie_spojnosci_grafu.dir
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/IX_Przegladanie_grafu/Sprawdzanie_spojnosci_grafu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/IX_Przegladanie_grafu/Sprawdzanie_spojnosci_grafu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

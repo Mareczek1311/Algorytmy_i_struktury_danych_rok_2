@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Najkrotsza_droga_w_grafie_niezorientowanym",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Najkrotsza_droga_w_grafie_niezorientowanym::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Najkrotsza_droga_w_grafie_niezorientowanym-Debug-667ff2e593e4262b7392.json",
+					"name" : "Najkrotsza_droga_w_grafie_niezorientowanym",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/X_Najkrotsza_droga/Najkrotsza_droga_w_grafie_niezorientowanym/cmake-build-debug",
+		"source" : "/Users/mareczek131/code/rok2/AlgorytmyIStrukturyDanych/X_Najkrotsza_droga/Najkrotsza_droga_w_grafie_niezorientowanym"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
